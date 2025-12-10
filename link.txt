@@ -1,0 +1,47 @@
+https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset
+
+Age
+Year of birth
+Month of birth
+Birthday
+Gender
+
+Total bilirubin -> A bilirrubina é um pigmento amarelo produzido durante a quebra normal dos glóbulos vermelhos no corpo.
+Valores elevados de bilirrubina total podem indicar problemas no fígado, no sistema biliar ou em outras partes do corpo, e
+podem ser um sinal de doença hepática, obstrução biliar, anemia hemolítica ou outras condições médicas.
+
+Direct Bilirubin -> Níveis elevados de bilirrubina direta podem indicar obstrução biliar, doença hepática ou outros distúrbios hepáticos. 
+Ela é geralmente medida em conjunto com a bilirrubina total e a bilirrubina indireta para fornecer informações mais precisas sobre a função 
+hepática e o metabolismo da bilirrubina.
+
+Alkaline Phosphotase -> Quando os níveis de fosfatase alcalina estão elevados no sangue, isso pode indicar vários problemas de saúde. 
+No contexto clínico, os níveis elevados de fosfatase alcalina são frequentemente associados a distúrbios do fígado e da vesícula biliar, 
+tais como hepatite, obstrução biliar, doença hepática alcoólica, cálculos biliares, ou câncer de fígado.
+
+
+Alamine Aminotransferase -> A medição dos níveis de ALT no sangue é um teste de função hepática comum e útil. 
+A presença de ALT no sangue pode indicar danos ao fígado, pois essa enzima é liberada na corrente sanguínea quando as células do fígado são danificadas. 
+As causas comuns de aumento dos níveis de ALT incluem hepatite viral, hepatite alcoólica, doença hepática gordurosa não alcoólica (DHGNA), 
+lesão hepática por medicamentos, obstrução biliar, cirrose e outros distúrbios hepáticos.
+
+Aspartate Aminotransferase -> Portanto, níveis elevados de AST podem indicar lesão hepática (como hepatite, cirrose) ou lesão cardíaca (como infarto do miocárdio). 
+Porém, é importante notar que a AST é menos específica para o fígado do que a ALT, uma vez que ela também está presente em outros tecidos.
+
+Total Proteins -> Valores anormais de proteínas totais podem indicar desidratação, problemas renais, doenças hepáticas, desnutrição, distúrbios da tireoide, 
+mieloma múltiplo ou outras condições médicas. No entanto, é importante interpretar esses resultados em conjunto com outros testes e informações clínicas para o
+bter um diagnóstico preciso.
+
+Albumin -> A medição dos níveis de albumina no sangue é útil na avaliação da saúde hepática e nutricional, 
+uma vez que os níveis de albumina podem ser afetados por doenças hepáticas, desnutrição, inflamação crônica, perda de proteína devido a distúrbios renais ou intestinais, 
+entre outras condições. A albumina é frequentemente incluída em um painel de testes de função hepática e é um indicador importante do estado de saúde geral do paciente.
+
+Cholesterol -> colesterol
+
+Albumin and Globulin Ratio -> A albumina é uma proteína produzida principalmente pelo fígado e desempenha um papel importante no transporte de várias substâncias no sangue, 
+na manutenção da pressão osmótica do plasma e na regulação do equilíbrio ácido-base.
+Alterações na relação A/G podem ocorrer em várias condições médicas, incluindo: Doenças hepáticas
+
+Bilirubin (mg/dL) -> está a mais 
+
+Selector (target variable) 
+
